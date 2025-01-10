@@ -1,0 +1,16 @@
+[{
+    "name":"varun",
+    "age":25,
+    "city":"mysore",
+    "amount":1500
+},{
+    "name":"aswin",
+    "age":23,
+    "city":"naamakal",
+    "amount":2000
+},{
+    "name":"prasu",
+    "age":22,
+    "city":"sulur",
+    "amount":2500
+}]
